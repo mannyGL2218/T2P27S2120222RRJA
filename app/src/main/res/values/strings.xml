@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Captura de datos</string>
+    <string name="titulo1">Recibiendo</string>
+    <string name="titulo2">Captura</string>
+    <string name="dato1">Nombre</string>
+    <string name="dato2">Edad</string>
+    <string name="dato3">Correo</string>
+    <string name="regresar">Regresar</string>
+</resources>
